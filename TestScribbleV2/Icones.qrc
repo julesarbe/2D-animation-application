@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Icons/Background.png</file>
+        <file>Icons/Circle.png</file>
+        <file>Icons/Color.png</file>
+        <file>Icons/Drawing.png</file>
+        <file>Icons/EraseBackground.png</file>
+        <file>Icons/Eraser.png</file>
+        <file>Icons/EraserBack.png</file>
+        <file>Icons/Line.png</file>
+        <file>Icons/Next.png</file>
+        <file>Icons/Play.png</file>
+        <file>Icons/Previous.png</file>
+        <file>Icons/Square.png</file>
+        <file>Icons/Width.png</file>
+    </qresource>
+</RCC>
